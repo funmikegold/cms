@@ -1,0 +1,16 @@
+<?php
+
+
+
+
+CREATE..  INSERT INTO tblusers...  
+
+
+READ ... SELECT  *  FROM tblusers
+
+1) WRITE YOUR SQL SYNTAX E.G "SELECT * FROM YOURTABLE"; 
+2) QUERY YOUR SQL SYNTX... E.G MYSQLI_QUERY($CONENCT, $SQL); 
+// 3) myqli_fetch_assoc().. This is used to fetch data from the databse
+
+
+
